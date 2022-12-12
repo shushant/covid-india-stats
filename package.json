@@ -12,7 +12,7 @@
     "cheerio": "^1.0.0-rc.3",
     "cheerio-tableparser": "^1.0.1",
     "connect-history-api-fallback": "^1.6.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7",
     "vue": "^2.5.17",
     "vuetify": "^1.2.0"
